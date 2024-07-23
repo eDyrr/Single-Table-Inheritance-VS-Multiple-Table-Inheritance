@@ -1,0 +1,1 @@
+# Single-Table-Inheritance-VS-Multiple-Table-Inheritance
